@@ -1,10 +1,10 @@
-# activiti-not-responsive-
+# activiti
 
-# using
+## using
 
-* html
-* css 
-* javascript
+* HTML
+* CSS 
+* Javascript
 * bootstrap
 
-live link : https://mrana565.github.io/activiti--responsive-/
+Live link: [https://mrana565.github.io/activiti--responsive-/](https://developermrana.github.io/activiti--responsive-/)
